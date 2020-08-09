@@ -34,10 +34,12 @@ This project is very much a work in progress.
 
 3. *Running the script.* Next, bring modmakerII.py into the same folder where you stored the text file. Drag the text file onto modmakerII.py. This should run the script and generate a modfile.
 
-4. *Applying the magic.* Open this modfile with OpenMPT and click save (or use the control-s shortcut). After you save it the file size should be signifigantly smaller. We do this because openMPT has some computer magic that makes the modfile work in GB studio that I don't know how to do in python. *any new edits to the song should be done in OpenMPT or Milkytracker.*
+4. *Applying the magic.* Open this modfile with OpenMPT and click save (or use the control-s shortcut). After you save it the file size should be significantly smaller. We do this because openMPT has some computer magic that makes the modfile work in GB studio that I don't know how to do in python. *any new edits to the song should be done in OpenMPT or Milkytracker.*
 
 5. Copy the new modfile into your project assets folder and you're good to go!
 
+##Updates:
+    - 8/9/2020: version 1 released.
 
 # Sources
 
