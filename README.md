@@ -42,9 +42,14 @@ This project is very much a work in progress.
 # Sources
 
 I reverse engineered some of this code https://github.com/NardJ/ModTrack-for-Python/blob/master/modtrack/loadmod.py to generate the period lookup table and to learn the file structure. I also used/read:
+
     - http://www.fileformat.info/format/mod/corion.htm
+    
     - http://elektronika.kvalitne.cz/ATMEL/MODplayer3/doc/MOD-FORM.TXT
+    
     - https://www.eblong.com/zarf/blorb/mod-spec.txt
+    
     - ftp://ftp.modland.com/pub/documents/format_documentation/FireLight%20MOD%20Player%20Tutorial.txt
+    
     - And of course, https://github.com/AntonioND/gbt-player
 
